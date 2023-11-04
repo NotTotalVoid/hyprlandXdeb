@@ -1,3 +1,10 @@
+<div align = center>
+
+<img src="https://raw.githubusercontent.com/vaxerski/Hyprland/main/assets/header.svg" width="750" height="300" alt="banner">
+
+<br>
+
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/NotTotalVoid/hyprlandXdeb?style=for-the-badge&color=cba6f7)
 <br>
 
